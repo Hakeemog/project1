@@ -1,2 +1,2 @@
 This is a branch commit
-
+This is an addendum to branch commit
